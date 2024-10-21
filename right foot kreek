@@ -1,0 +1,8 @@
+#Isaac Bissonette
+#10/21/24
+
+names = ['Apollos Eastman', 'Thayer Yang', 'Lucas Brinky', 'Owen Perez']
+
+
+
+print(f'hello, {names[0]}')
