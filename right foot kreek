@@ -4,5 +4,14 @@
 names = ['Apollos Eastman', 'Thayer Yang', 'Lucas Brinky', 'Owen Perez']
 
 
-
 print(f'hello, {names[0]}')
+print(f'hello, {names[1]}')
+print(f'hello, {names[2]}')
+print(f'hello, {names[3]}')
+
+vehicles = ['car', 'truck', 'semi', 'crazy kart']
+
+print(f'I would love to ride around in a {vehicles[3]}')
+print(f'I want a {vehicles[0]} so I can go places')
+print(f'I would want to use a {vehicles[1]} for moving')
+print(f'I would use a {vehicles[2]} for trucker  jobs')
